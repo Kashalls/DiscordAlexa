@@ -1,3 +1,6 @@
+# Deny entry to env files
+.env
+
 # Logs
 logs
 *.log

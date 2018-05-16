@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ask-sdk-core": "^2.0.4",
+    "ask-sdk-model": "^1.2.0",
+    "discord.js": "Favna/discord.js",
+    "libsodium-wrappers": "^0.7.3",
+    "snekfetch": "^4.0.0",
+    "uws": "^10.148.0"
+  }
+}
