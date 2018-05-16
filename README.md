@@ -1,7 +1,8 @@
 <div align="center">
 
   <p>
-<img src="https://www.hackster.io/32120/alexa-to-discord-36ae60" alt="Discord Alexa"/>
+<img src="https://images.discordapp.net/avatars/421879566265614337/7035b241f838c0e1de3f0ab047352d0b.png?size=512" alt="Discord Alexa"/>
+<h2>Discord Alexa</h2>
   </p>
 
   <p>
