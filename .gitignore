@@ -1,6 +1,9 @@
 # Deny entry to env files
 .env
 
+# Settings should never be set.
+settings.js
+
 # Logs
 logs
 *.log

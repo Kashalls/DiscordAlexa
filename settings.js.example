@@ -1,0 +1,8 @@
+const settings = {
+
+	discordBotToken: '',
+
+	developers: ['112001393140723712', '201077739589992448']
+};
+
+module.exports = settings;
