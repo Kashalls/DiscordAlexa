@@ -4,7 +4,7 @@
     "discord.js": "Favna/discord.js",
     "express": "^4.16.3",
     "libsodium-wrappers": "^0.7.3",
-    "snekfetch": "^4.0.0",
+    "snekfetch": "^4.0.2",
     "uws": "^10.148.0"
   }
 }
