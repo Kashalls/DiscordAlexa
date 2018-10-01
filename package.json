@@ -5,6 +5,6 @@
     "express": "^4.16.3",
     "libsodium-wrappers": "^0.7.3",
     "snekfetch": "^4.0.2",
-    "uws": "^10.148.1"
+    "uws": "^10.148.2"
   }
 }
