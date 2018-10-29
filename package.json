@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "alexa-app": "^4.2.2",
+    "alexa-app": "^4.2.3",
     "discord.js": "Favna/discord.js",
     "express": "^4.16.3",
     "libsodium-wrappers": "^0.7.3",
