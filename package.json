@@ -2,7 +2,7 @@
   "dependencies": {
     "alexa-app": "^4.2.2",
     "discord.js": "Favna/discord.js",
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "libsodium-wrappers": "^0.7.3",
     "snekfetch": "^4.0.4",
     "uws": "^10.148.2"
