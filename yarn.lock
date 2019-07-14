@@ -252,15 +252,15 @@ js-combinatorics@^0.5.0:
   version "0.5.3"
   resolved "https://registry.yarnpkg.com/js-combinatorics/-/js-combinatorics-0.5.3.tgz#5da5a1c4632ec59fdf8d49dccfe59ef088122b15"
 
-libsodium-wrappers@^0.7.3:
-  version "0.7.3"
-  resolved "https://registry.yarnpkg.com/libsodium-wrappers/-/libsodium-wrappers-0.7.3.tgz#b7e6326a5c42eb269540e360ce9c2600eb90c75c"
+libsodium-wrappers@^0.7.5:
+  version "0.7.5"
+  resolved "https://registry.yarnpkg.com/libsodium-wrappers/-/libsodium-wrappers-0.7.5.tgz#a880a99250edecead36a336b9d9eb7192ca405b4"
   dependencies:
-    libsodium "0.7.3"
+    libsodium "0.7.5"
 
-libsodium@0.7.3:
-  version "0.7.3"
-  resolved "https://registry.yarnpkg.com/libsodium/-/libsodium-0.7.3.tgz#35faf57293ba5485049d5072d0e96feda12f1f35"
+libsodium@0.7.5:
+  version "0.7.5"
+  resolved "https://registry.yarnpkg.com/libsodium/-/libsodium-0.7.5.tgz#a45a0a88a6f7a39291b053447908a76570138e09"
 
 lodash.defaults@^4.2.0:
   version "4.2.0"
